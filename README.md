@@ -1,9 +1,9 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/adrijano/bitbruter/)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/adrijano/Bitbruter/)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/adrijano/bitbruter/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/adrijano/Bitbruter/graphs/commit-activity)
 
 
 ![Imgur](bitb.gif)
@@ -16,7 +16,7 @@ Automated Bitcoin wallet generator that brute forces random wallet addresses.
 ```
 # If you like it give it a star
 
-[![GitHub stars](https://img.shields.io/github/stars/Py-Project/bitbruter.svg?style=social&label=Star&maxAge=0)](https://github.com/adrijano/bitbruter/)
+[![GitHub stars](https://img.shields.io/github/stars/Py-Project/bitbruter.svg?style=social&label=Star&maxAge=0)](https://github.com/adrijano/Bitbruter/)
 
 
 
@@ -25,11 +25,11 @@ Automated Bitcoin wallet generator that brute forces random wallet addresses.
 ### Python3+
 
 ```
-git clone https://github.com/adrijano/bitbruter.git
+git clone https://github.com/adrijano/Bitbruter.git
 
 cd bitbruter && pip install -r requirements.txt
 
-python bitbruter.py
+python Bitbruter.py
 
 ```
 # Proof of Concept
@@ -72,7 +72,7 @@ You can also donate Bitcoin, Bitcoin Cash, Dai, Ethereum, Litecoin and USD Coin.
 ```
 [![paypal](https://svgshare.com/i/Q0_.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=PFB6A6HLAQHC2&source=url)  [![Bitcoin](https://svgshare.com/i/QBo.svg)](https://commerce.coinbase.com/checkout/149a6235-ec7e-4d3b-a1ae-b08c4f08b4f6)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/adrijano/bitbruter/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/adrijano/Bitbruter/)
 
 
 
