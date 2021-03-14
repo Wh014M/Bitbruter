@@ -16,7 +16,7 @@ Automated Bitcoin wallet generator that brute forces random wallet addresses.
 ```
 # If you like it give it a star
 
-[![GitHub stars](https://img.shields.io/github/stars/Py-Project/bitbruter.svg?style=social&label=Star&maxAge=0)](https://github.com/adrijano/Bitbruter/)
+[![GitHub stars](https://img.shields.io/github/stars/adrijano/Bitbruter.svg?style=social&label=Star&maxAge=0)](https://github.com/adrijano/Bitbruter/)
 
 
 
